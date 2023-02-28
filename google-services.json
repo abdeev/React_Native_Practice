@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044382508449",
+    "project_id": "react-native-training01",
+    "storage_bucket": "react-native-training01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044382508449:android:6779e11c278897d31a17e0",
+        "android_client_info": {
+          "package_name": "abdeev.pooh.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044382508449-b2nq6nlefdn17c3jitviqtcibc3jvom1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdoyhT84a05_cidfBoA-0csIulbZKKgNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044382508449-b2nq6nlefdn17c3jitviqtcibc3jvom1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
